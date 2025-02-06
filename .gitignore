@@ -3,6 +3,7 @@
 *.code-workspace
 *.csv
 cpd merged final v1.xlsx 
+temp.ipynb 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
